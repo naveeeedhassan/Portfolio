@@ -18,11 +18,11 @@
             background: #1f1f1f;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
             border: 1px solid #444;
         }
         h1, h2, h3 {
-            color: #e0e0e0;
+            color: #ff6347; /* Bright red-orange for section headers */
         }
         table {
             width: 100%;
@@ -38,6 +38,12 @@
             background-color: #0073e6;
             color: white;
         }
+        tr:nth-child(even) {
+            background-color: #333;
+        }
+        tr:nth-child(odd) {
+            background-color: #282828;
+        }
         a {
             color: #00bcd4;
             text-decoration: none;
@@ -49,6 +55,19 @@
         .contact-links {
             text-align: center;
             margin-top: 20px;
+        }
+        .contact-links a {
+            color: #ff6347; /* Bright red-orange for links */
+            margin: 0 15px;
+        }
+        .contact-links a:hover {
+            color: #fff;
+        }
+        .contact-header {
+            color: #ff6347;
+            font-size: 1.5rem;
+            text-align: center;
+            margin-top: 40px;
         }
     </style>
 </head>
@@ -170,7 +189,7 @@
             </tr>
         </table>
         
-        <h2>📧 Get in Touch</h2>
+        <h2 class="contact-header">📧 Get in Touch</h2>
         <div class="contact-links">
             <p>
                 <a href="https://www.linkedin.com/in/naveed-hassan/" target="_blank">LinkedIn Profile</a> | 
