@@ -42,4 +42,4 @@ This portfolio showcases my hands-on experience in data science, machine learnin
 
 This portfolio demonstrates my expertise in data engineering, machine learning, data visualization, and analytics, with a focus on delivering impactful solutions using real-world datasets.
 
-📧 **Get in Touch:** [LinkedIn Profile](#https://www.linkedin.com/in/naveed-hassan/) | [GitHub](#https://github.com/naveeeedhassan/) | [E-Mail](#mailto:naveedhassan04@hotmail.com)
+📧 **Get in Touch:** [LinkedIn Profile](https://www.linkedin.com/in/naveed-hassan/) | [GitHub](https://github.com/naveeeedhassan/) | [E-Mail](mailto:naveedhassan04@hotmail.com)
