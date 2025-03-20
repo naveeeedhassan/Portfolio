@@ -25,7 +25,52 @@ This portfolio showcases my hands-on experience in data science, machine learnin
 - SVM
 
 ### Tools
-- Azure Data Factory, TensorFlow, PyTorch, Keras, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- Machine Learning
+    - Scikit-learn
+    - TensorFlow
+    - PyTorch
+    - XGBoost
+    - Keras
+    - Hugging Face Transformers
+      
+- Computer Vision
+    - OpenCV
+    - TensorFlow/Keras
+    - PyTorch
+    - CLIPModel
+    - Detectron2
+    - YOLO
+    - Ultralytics
+    - PIL (Pillow)
+    - Tesseract OCR (Optical Character Recognition)
+    - SAM (Segment Anything Model)
+
+- Data Analysis
+    - Pandas
+    - NumPy
+    - SciPy
+    - PyCaret
+
+- Data Visualization
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - ggplot
+
+- MLOps & Model Deployment
+    - Streamlit
+    - FastAPI
+
+- NLP (Natural Language Processing)
+    - FAISS (Facebook AI Similarity Search)
+    - spaCy
+    - Hugging Face Transformers
+    - BERT
+    - vaderSentiment
+
+- Big Data & Cloud Platforms
+    - Azure (Data Factory, Synapse)
+    - Databricks
 
 ### Dashboards
 - Tableau
