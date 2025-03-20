@@ -5,16 +5,34 @@ This portfolio showcases my hands-on experience in data science, machine learnin
 ## 🛠 Technology Stack
 
 ### Languages
-- Python, SQL (MySQL, Oracle SQL Developer, Microsoft SQL Server), R, Java, C++
+- Python
+- SQL:
+    - MySQL
+    - Oracle SQL Developer
+    - Microsoft SQL Server
+- R
+- Java
+- C++
 
 ### Machine Learning
-- Regression, Classification, Clustering, Logistic Regression, Random Forest, SVM, NLP, Neural Networks, Time Series Analysis, Computer Vision, Deep Learning
+- Computer Vision
+- Deep Learning
+- Neural Networks
+- Time Series Forecasting
+- NLP
+- Regression, Logistic Regression
+- Random Forest
+- SVM
 
 ### Tools
-- TensorFlow, PyTorch, Keras, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Azure Data Factory
+- Azure Data Factory, TensorFlow, PyTorch, Keras, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 ### Dashboards
-- Tableau, Looker Studio, Power BI
+- Tableau
+- Looker Studio
+- Power BI
+- Grafana
+- Node-RED
 
 ---
 
