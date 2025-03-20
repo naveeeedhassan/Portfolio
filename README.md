@@ -2,7 +2,7 @@
 
 This portfolio showcases my hands-on experience in data science, machine learning, and data engineering. Each project highlights the technical skills and tools utilized.
 
-## 🛠 Technology Stack
+## 🛠 Tech Stack
 
 ### Languages
 - Python
@@ -24,7 +24,7 @@ This portfolio showcases my hands-on experience in data science, machine learnin
 - Random Forest
 - SVM
 
-### Tools
+### Tools/Frameworks
 - Machine Learning
     - Scikit-learn
     - TensorFlow
@@ -81,7 +81,7 @@ This portfolio showcases my hands-on experience in data science, machine learnin
 
 ---
 
-## 💼 Hands-on Experience
+## Hands-on Experience
 
 | No. | Title | Technical Skills | Description |
 |----|--------------------------------------|---------------------------------|-----------------------------------------------------------|
