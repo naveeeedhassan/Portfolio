@@ -1,4 +1,4 @@
-# 📊 Data Science & Engineering Portfolio
+# Data Science & Engineering Portfolio
 
 This portfolio showcases my hands-on experience in data science, machine learning, and data engineering. Each project highlights the technical skills and tools utilized.
 
